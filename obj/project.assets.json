@@ -447,24 +447,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\frknb\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\frknb\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\frknb\\Desktop\\Projelerim\\MiniTodoAPI\\MiniTodoAPI.csproj",
+      "projectUniqueName": "C:\\Users\\frknb\\Desktop\\Todo\\MiniTodoAPI.csproj",
       "projectName": "MiniTodoAPI",
-      "projectPath": "C:\\Users\\frknb\\Desktop\\Projelerim\\MiniTodoAPI\\MiniTodoAPI.csproj",
+      "projectPath": "C:\\Users\\frknb\\Desktop\\Todo\\MiniTodoAPI.csproj",
       "packagesPath": "C:\\Users\\frknb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\frknb\\Desktop\\Projelerim\\MiniTodoAPI\\obj\\",
+      "outputPath": "C:\\Users\\frknb\\Desktop\\Todo\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\frknb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -489,8 +484,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -520,7 +514,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
