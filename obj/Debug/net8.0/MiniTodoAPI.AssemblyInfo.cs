@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniTodoAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43a066b71789672274064c7f9d03c02b3ecd28d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniTodoAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniTodoAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
